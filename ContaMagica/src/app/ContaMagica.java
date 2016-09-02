@@ -39,7 +39,11 @@ public class ContaMagica {
 			 this.saldo = valor.add((0.01*valor));
 			
 		 }
-		 
+		 else if(status==3){
+				
+			 this.saldo = valor.add((0.025*valor));
+			
+		 }
 		 
 	 }
 	 
