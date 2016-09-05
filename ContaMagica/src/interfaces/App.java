@@ -3,7 +3,8 @@ package interfaces;
 
 import java.math.BigDecimal;
 import java.util.Scanner;
-import app.*;
+import app.Cliente;
+import app.ContaMagica;
 
 
 public class App {
