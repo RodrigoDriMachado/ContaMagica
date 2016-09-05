@@ -1,7 +1,10 @@
-package app;
+package interfaces;
+
 
 import java.math.BigDecimal;
 import java.util.Scanner;
+import app.*;
+
 
 public class App {
 
